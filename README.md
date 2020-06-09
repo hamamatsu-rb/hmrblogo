@@ -1,4 +1,4 @@
-# Hamamatsu.rb Logotype
+# Hamamatsu.rb Logo
 
 ## Color
 
@@ -8,7 +8,7 @@
 
 ![Red](logo/hmrblogo_red.png)
 
-## Black and White
+## Mono
 
 ![Black and White](logo/hmrblogo_bw.png)
 
