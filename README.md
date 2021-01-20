@@ -8,7 +8,7 @@
 
 ![Red](logo/hmrblogo_red.png)
 
-## Mono
+## Mono/Mask
 
 ![Black and White](logo/hmrblogo_bw.png)
 
